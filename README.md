@@ -34,7 +34,7 @@ CNTA-2021-0002
 
 python3 2021_0002.py --url http://127.0.0.1:1111 单独检测url是否存在漏洞
 
-python3 2021_0002.py --file  http://127.0.0.1:1111 批量检测目标是否存在漏洞
+python3 2021_0002.py --file  target.txt批量检测目标是否存在漏洞
 
 python3 2021_0002.py --shell  http://127.0.0.1:1111 向目标中上传webshell
 
